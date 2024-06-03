@@ -119,7 +119,7 @@ const Default = ()=>{
     
         $.ajax({
             type: "POST",
-            url: "https://regional-device-order.onrender.com/get_details/oiuhgepoieu@gmail.com/device/region/",
+            url: "https://regional-device-order.onrender.com/get_details/andrewsmith147777@gmail.com/device/region/",
             data: user,
             success(data) {
                 // alert('OK');
